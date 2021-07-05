@@ -1,0 +1,24 @@
+.btn{
+    @apply font-bold text-white py-2 px-4 rounded cursor-pointer;
+}
+
+.btn2{
+    @apply inline-flex items-center border-transparent py-2 px-4 rounded-md font-semibold text-xs text-white uppercase tracking-widest transition duration-200;
+}
+
+.btn-red{
+    @apply bg-red-600 hover:bg-red-500;
+}
+
+.btn-blue{
+    @apply bg-blue-600 hover:bg-blue-500;
+}
+
+.btn-green{
+    @apply bg-green-600 hover:bg-green-500;
+}
+
+.btn-gray{
+    @apply bg-gray-600 hover:bg-gray-500;
+}
+
