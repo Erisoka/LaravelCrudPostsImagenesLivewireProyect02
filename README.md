@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Proyecto 02 - 
+
+Proyecto 02 con Laravel y Livewire, Crud básico de Posts con Imágenes, uso de componentes y eventos básicos de Livewire, con input de búsqueda reactiva, modales de Livewire y SweetAlert2, paginación, mostrar resultados según una cantidad, inserción de imágenes para los post.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
