@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Proyecto 02 - 
+## Proyecto 02 - Livewire Crud Posts e Imágenes
 
 Proyecto 02 con Laravel y Livewire, Crud básico de Posts con Imágenes, uso de componentes y eventos básicos de Livewire, con input de búsqueda reactiva, modales de Livewire y SweetAlert2, paginación, mostrar resultados según una cantidad, inserción de imágenes para los post.
 
